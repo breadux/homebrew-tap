@@ -1,7 +1,7 @@
 # homebrew-tap
-Homebrew formulae for simonlansing projects.
+Homebrew formulae for breadctl projects.
 
 ```bash
-brew tap simonlansing/tap
+brew tap breadctl/tap
 brew install op-cache
 ```
