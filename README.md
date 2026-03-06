@@ -1,7 +1,7 @@
 # homebrew-tap
-Homebrew formulae for breadctl projects.
+Homebrew formulae for breadux projects.
 
 ```bash
-brew tap breadctl/tap
+brew tap breadux/tap
 brew install op-cache
 ```
